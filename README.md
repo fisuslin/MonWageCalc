@@ -1,6 +1,6 @@
-# Project Title
+# MonWageCalc
 
-One Paragraph of project description goes here
+MonWageCalc calculates monthly wages given in csv-file
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Done with Netbeans but doesn't work properly yet without modifications. Doesn't have UI yet
 
 ```
 Give examples
@@ -72,7 +72,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **fisuslin** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
